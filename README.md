@@ -6,18 +6,18 @@ Un lugar para tus ideas. Crea proyectos con un compañero de IA, una isla y tu p
 
 ## Descargar para Mac
 
-**[Descargar Dodo Studio v1.0.0](https://github.com/rogelioVG/dodo-studio-releases/releases/download/v1.0.0/Dodo-Studio-1.0.0-mac-arm64.dmg)**
+**[Descargar Dodo Studio v1.0.1](https://github.com/rogelioVG/dodo-studio-releases/releases/download/v1.0.1/Dodo-Studio-1.0.1-mac-arm64.dmg)**
 
 - Mac con Apple Silicon (M1 o posterior)
 - macOS 13 o posterior
 - Instalador de aproximadamente 364 MiB
 
 Abre el archivo `.dmg`, arrastra Dodo Studio a Aplicaciones y abre la app desde allí.
-Esta primera versión no está firmada ni notarizada por Apple. macOS puede bloquear la primera
+Esta versión tiene una firma local de integridad, pero no está firmada con un Developer ID ni notarizada por Apple. macOS puede bloquear la primera
 apertura; consulta [las instrucciones de Apple para abrir una app de confianza](https://support.apple.com/es-mx/102445).
 
-[Notas de la versión](https://github.com/rogelioVG/dodo-studio-releases/releases/tag/v1.0.0)
-· [Checksum SHA-256](https://github.com/rogelioVG/dodo-studio-releases/releases/download/v1.0.0/SHA256SUMS.txt)
+[Notas de la versión](https://github.com/rogelioVG/dodo-studio-releases/releases/tag/v1.0.1)
+· [Checksum SHA-256](https://github.com/rogelioVG/dodo-studio-releases/releases/download/v1.0.1/SHA256SUMS.txt)
 · [Todas las versiones](https://github.com/rogelioVG/dodo-studio-releases/releases)
 
 Intel y Windows todavía no están incluidos. Las actualizaciones se instalan manualmente.
